@@ -24,6 +24,7 @@ Files
 1. CAD Onshape (basic sketching, feaatures [sweep loft], assembly mates, vesioning, collaboration)
 2. Mechanial Advantage, rotational motion, linear motion, various mechanisms
     1. Simple machines (wedge, lever, pulley, wheel/axel)
+    2. Positive locking mechanism, quick release mechanism, snap shackle
     2. Find 5 mechanisms in devices you see in your life
 3. Design for 3D printing, seam placement, tolerancing, infill, perimeters, elephants foot/chamfering, GD&T regarding ID and OD tolerance from 3d printing errors, solution methods include xy comp in software, or manually adjust dims in CAD
 4. Mathematical mechanical analysis of various mechanisms. Over center mechanism. Wedge. Ratchet and pawl.
@@ -48,6 +49,7 @@ Files
     2. 2 unique mechanism in the automata
     3. Materials: Bearings (3mm, 5mm, 10mm), shafts (3,5,10mm)
     4. Weekly versioning of project with justification for work done
+
 ### Notes for self: 
 Flange  
 Corrugation  
@@ -60,3 +62,4 @@ Cardboard
 Brass Fasteners  
 Aluminum and Steel Wire  
 Cardboard Tape  
+12VDC Motor with Motor Controller (x5)
