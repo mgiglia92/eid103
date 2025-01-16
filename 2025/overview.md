@@ -63,6 +63,8 @@ Files
     2. Goal is to generate constant velocity output (as close as possible)
     3. Quantitative analysis of motor velocity when engaged and disengaged with rectifer mechanism
     4. Output is intermittent or linear motion intermittent or linear motion
+    5. The mechanism must be able to be easily disconnected from the motor, but NOT removing the entire mechanism
+    5. EC: Make the quick connect able to engage/disengage while the motor is spinning via a lever (think a stick shift transmission)
 2. Automata w/ process video w/ narration and final report
     1. Constraints: Handcrank input, LxWxH (1'x1'x1')
     2. 2 unique mechanism in the automata
