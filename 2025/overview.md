@@ -44,8 +44,6 @@ Files
     1. Apply a mathematical analysis to one of the mechanisms you found
     2. Levers
 
-### 6 Project 1 Discussion (Motion Rectifier)
-
 ## Assignments:
 1. Find an object that has gone through a design evolution over time.
     1. Year of change

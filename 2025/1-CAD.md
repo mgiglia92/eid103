@@ -8,6 +8,7 @@
 2. Use of constraints
 3. Using constraints to make symmetric geometry
 4. Using constraints and dimensions to make updatable geometry
+5. Use/Project
 
 ## Features
 ### Boss Extrude
@@ -25,6 +26,7 @@
 2. When would using a configuration be useful?
 3. Using a variable for a configuration instead (for example, gear or any co-dependent parameters)
     1. Quick discussion of gears (module, pitch diameter, #teeth)
+    2. Show why without variables configuration for spur gear breaks (b/c of codependent params)
 ## Assembly
 1. Inserting configurations
 2. Fixing! (Show animation w/ and w/o fixing of base linke)
@@ -57,3 +59,4 @@
 3. Point out at least 2 problems that would arise in realizing this 4 bar linkage
     1. Give an example of at least one potential solution for each of these problems.
     2. I can think of at least 3 regarding fastening and friction
+4. Hand in a video showing animations of EACH linkage
