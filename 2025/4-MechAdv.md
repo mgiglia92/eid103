@@ -1,7 +1,8 @@
 # Simple Machines and Mechanical Advantage
 
 ## Simple Machine
-- WIKI: A simple machines is a mechanical device that changes the direction or magnitude of a force. Typically they use Mechanical Advantage to complete their task. Mechanical Advantage is another term for Leverage!
+- WIKI: A simple machines is a mechanical device that changes the direction or magnitude of a force. Typically they use Mechanical Advantage to complete their task. Mechanical Advantage is another term for Leverage! As well, a SINGLE applied force is used to do work against a single LOAD force.
+
 - An IDEAL simple machine can be thought of as a Mechanical Amplifier, where the GAIN of the amplifer is determined by geometric relationships on the simple machine. Unlike an eletronic amplifier though, the Power INTO the ideal simple machine must be equivalent to the Power OUT of the machine. In non-ideal cases, friction , enegy storage elements and elasticity play into the loss of power transmitted through the simple machine. 
 
 
@@ -43,9 +44,14 @@
 ## "Linear" Simple Machines
 
 ### Inclined Plane
-
+- Various ways to setup input and output of an inclined plane.
+    - Mass sliding down
+    - Force squeezing inclined plane out
+    - Force pushing inclined plane sideways forcing mass upwards
+- Is this simple machine back drivable?
 
 ### Wedge
+
 
 ### Screw (Technically involves both linear and rotational concepts)
 
