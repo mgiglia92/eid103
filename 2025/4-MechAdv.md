@@ -3,7 +3,7 @@
 ## Simple Machine
 - WIKI: A simple machines is a mechanical device that changes the direction or magnitude of a force. Typically they use Mechanical Advantage to complete their task. Mechanical Advantage is another term for Leverage! As well, a SINGLE applied force is used to do work against a single LOAD force.
 
-- An IDEAL simple machine can be thought of as a Mechanical Amplifier, where the GAIN of the amplifer is determined by geometric relationships on the simple machine. Unlike an eletronic amplifier though, the Power INTO the ideal simple machine must be equivalent to the Power OUT of the machine. In non-ideal cases, friction , enegy storage elements and elasticity play into the loss of power transmitted through the simple machine. 
+- An IDEAL simple machine can be thought of as a Mechanical Amplifier, where the GAIN of the amplifer is determined by geometric relationships on the simple machine. Unlike an eletronic amplifier though, the Power INTO the ideal simple machine must be equivalent to the Power OUT of the machine. In non-ideal cases, friction, energy storage elements and elasticity play into the loss of power transmitted through the simple machine. 
 
 
 ## Rotational Simple Machines
@@ -51,11 +51,13 @@
 - Is this simple machine back drivable?
 
 ### Wedge
-
+1. 
 
 ### Screw (Technically involves both linear and rotational concepts)
 
-## Kinetmatic Chains
+### GEar
+
+### Cam
 
 ## Compound machines and/or Simple Mechanisms
 
@@ -67,8 +69,5 @@
 
 ## Homework
 
-Minor mathematicl and kinematic analysis of some simple machines.
+You have been given the task to design two compound machines. A compound machine is a system that uses at least 2 simple machines. Sketch two DIFFERENT compound machines. Determine the input and outputs of this machine and define the mechanical advantage. Make sure your sketch is well labelled with important angles, lengths, and forces shown! Provide a brief reasoning for your mechanical advantage expression as well as a use-case for your newly designed machine.
 
-Give examples of some machines (not necessarily simple) that conceptually work but are missing features to make them realizable. Have students define the features needed to make this machine/mechanism work in the real world. Choose one of them and come up with a CAD design of these necessary features.
-
-You have been given the task to design a simple machine that will make a 
