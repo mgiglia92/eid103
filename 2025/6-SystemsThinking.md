@@ -2,16 +2,27 @@
 
 ## Cognition Patterns
 
-## DSRP
-### D: Distinctions
-All things or ideas exist within their surroundings. Therefore nothing can exist "in a vacuum". There is a thing you are distinguishing, known as the "identity", and everything else, known as the "other".  The simple example would be a teacup. The teacup is a distinction, but we cannot ignore everything around the teacup. For example, the air around the teacup plays a role in the functions of the teacup. Can anyone give me a reason why the environment around the teacup plays a role in the functioning of the teacup? (Heat loss or Heat gain from the ambient air for example. Maybe a high pitched frequency can crack the teacup.)
+Coined by Derek Cabrera, DSRP are the 4 'units' of cognition that make up all complex cognition. Everything we think about can be boiled down into a network of units of DSRP. This doesn't mean that cognition is inherently simple, it just means the the building blocks of our cognition are simple. We must master each of these units so we can apply them appropriately in our Engineering Careers, but also in our everyday lives.
 
-### S: Systems
+What you'll notice is that essentially all 4 of these units have this idea of a "thing" and the "other". Both exist simultaneously and cannot exist without the other. 
+
+In the systems rule we can think of a gear train as a system of gears. The gear train can't exists without the parts (which are the gears). And the gears alone not lumped into a system (the gear train) don't exist in the same way if they are separated.
+
+## DSRP
+### D: Distinctions (Thing - Other)
+All things or ideas exist within their surroundings. Therefore nothing can exist "in a vacuum". There is a thing you are distinguishing, known as the "identity", and everything else, known as the "other".  The simple example would be a teacup. The teacup is a distinction, but we cannot ignore everything around the teacup. For example, the air around the teacup plays a role in the functions of the teacup. Can anyone give me a reason why the environment around the teacup plays a role in the functioning of the teacup? (Heat loss or Heat gain from the ambient air for example. Maybe a high pitched frequency can crack the teacup.) 
+
+It's also important to note that using the concept of "negation" we can define what something is by DEFINING WHAT IT IS NOT! This is inherent in the Distinctions pattern
+
+### S: Systems (Part - Whole)
 The systems rule lays out that things can be lumped together to make up systems, or split apart into their parts. When being sufficient critical thinkers, we would both split or lump elements depending on the context. The level of depth applied is dependent on the context as well.  
-### R: Relationships
+### R: Relationships (Action - Reaction)
 All elements have the ability to have relationships with other elements. An element could even have a relationship with itself. Relationships can be unidirectional, bidirectional, tridirectional, one to many, many to one, etc...  
-### P: Perspectives
+
+### P: Perspectives (Point - View)
 Perspectives are made of a "point" and a "view". Hence the term "point of view". Depending on the perspective (aka the view), the point may be different. For example, the marketing team for a product being designed may not care about the technical complexities of how the device works. Whereas the engineers may care about those complexities but not care as much about the asthetics or marketability of the product (as a contrived simple example).
+
+
 
 ## Mouse Example
 Show mouse example.
