@@ -8,6 +8,9 @@
 3. The system must have a way to measure (either in real-time or through post processing) it's input and output rotational speeds vs. time. 
 4. The ouput rotational motion MUST rotate a disc with a diameter between 1-3 inches.
 5. Your system will be tested at 3 different frequencies (f = 1Hz, 0.5Hz, 0.25Hz)
+6. The system must take less than 10 seconds to get to steady state
+7. The system's design must be SAFE! No parts that spin in excess. We will discuss this during your design critiques.
+
 ## Milestones
 1. 3 potential solutions for the Mechanical Rectifier
     1. Sketches OR CAD are acceptable for visual representations of the mechanism
@@ -72,3 +75,16 @@
 - V = (12/255) * (150 + (100\*sin(2\*PI\*f\*t)))  
 - Where 'f' is the frequency of the varying voltage signal, and 't' is time in seconds.
 - Since the arduino requires a 'pwm' value to control the motor, the (12/255) conversion from pwm to voltage was added in the above function
+
+## Provided Materials
+### Bushings/Bearings (All dimensions are nominal)
+1. 10x 3mm ID bushing (5mm OD, 5mm Length)
+2. 5x 3mm ID bearing (7mm OD, 3mm Length)
+3. 7x 5mm ID bearing (11mm OD, 5mm Length)
+4. 6x 8mm ID bearing (12mm OD, 3.5mm Length)
+### Shafts
+1. 80mm of 5mm precision shaft
+2. 40mm of 3mm precision shaft
+3. 7" of 3mm brass shaft 
+### Magnets
+1. 5 pairs of countersunk magnets (#4 fastener, 3/8" OD, 1/8" thick)
